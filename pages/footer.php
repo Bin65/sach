@@ -7,7 +7,7 @@
                     <i>Monday to Sunday: 6am to 11pm</i>
                 </p>
                 <p class="pt-2 text-light">
-                    <i>Address: San Bruno, California, United States</i>
+                    <i>Address: số 2 Tây Hồ</i>
                 </p>
                 <p class="pt-2 text-light">
                     <i>Email: Example@gmail.com</i>
